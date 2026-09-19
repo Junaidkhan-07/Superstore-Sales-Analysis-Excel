@@ -50,9 +50,6 @@ The objective of this project is to transform raw sales data into meaningful bus
 * Converted raw data into a decision-focused Excel dashboard
 
 ## 📊 Dashboard Preview
-
-
-
 ![Superstore Sales Dashboard](Dashboard.png)
 
 ## 📁 Project Files
